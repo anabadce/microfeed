@@ -2,9 +2,9 @@ name: CI
 
 on:
   push:
-    branches: [ "abadcer-com" ]
+    branches: [ "main" ]
   pull_request:
-    branches: [ "abadcer-com" ]
+    branches: [ "main" ]
 
 jobs:
   build:
