@@ -15,7 +15,7 @@
   "dependencies": {
     "@headlessui/react": "^1.7.4",
     "@heroicons/react": "^2.0.13",
-    "@tanstack/react-table": "^8.5.28",
+    "@tanstack/react-table": "^8.21.3",
     "@uiw/react-textarea-code-editor": "^2.1.9",
     "axios": "^1.2.1",
     "clsx": "^1.2.1",
