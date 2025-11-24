@@ -26,7 +26,7 @@
     "lz-string": "^1.4.4",
     "mustache": "^4.2.0",
     "quill-blot-formatter": "^1.0.5",
-    "react": "^18.2.0",
+    "react": "^18.3.1",
     "react-dom": "^18.2.0",
     "react-drag-drop-files": "^2.3.7",
     "react-quill": "^2.0.0",
